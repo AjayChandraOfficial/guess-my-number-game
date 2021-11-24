@@ -28,7 +28,7 @@ header {
 
 main {
   height: 65vh;
-  color: rgb(136, 93, 93);
+  color: #eee;
   display: flex;
   align-items: center;
   justify-content: space-around;
